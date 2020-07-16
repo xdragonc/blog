@@ -5,5 +5,5 @@
 
 [中文社区](https://www.githubs.cn/)
 [个人github](https://github.com/xdragonc/Demo)
-[开始阅读](#docsify-demo)
+[开始阅读](#blog)
 
