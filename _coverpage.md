@@ -4,5 +4,5 @@
 <h1 align="center">docsify-blog</h1>
 
 [个人github](https://github.com/xdragonc/)
-[开始阅读](#docsify-demo)
+[开始阅读](#docsify-blog)
 
